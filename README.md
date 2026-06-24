@@ -145,3 +145,16 @@ This project demonstrates how **multiple AI agents collaborate** to manage tasks
 
 GitHub: https://github.com/sinchanacs2005-cryptop
 
+## 🌐 Live Demo
+
+🚀 **Live API:**
+https://multi-agent-ai-01ry.onrender.com
+
+📖 **API Documentation:**
+https://multi-agent-ai-01ry.onrender.com/docs
+
+💻 **GitHub Repository:**
+https://github.com/sinchanacs2005-cryptop/multi-agent-ai
+
+🎥 **Demo Video:**
+https://drive.google.com/file/d/1ni9QtweXQolQ70ewhJ9MUQcoF04b-_YL/view
